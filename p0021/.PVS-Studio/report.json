@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "warnings": [
+    {
+      "code": "V6021",
+      "cwe": 563,
+      "sastId": "CERT-MSC56-J",
+      "level": 3,
+      "positions": [
+        {
+          "file": "F:\\Ky 3-Fall23\\LAB211\\p0021\\src\\Validation.java",
+          "line": 20,
+          "endLine": 20,
+          "column": 5,
+          "endColumn": 8,
+          "navigation": {
+            "previousLine": -123188447,
+            "currentLine": 4903,
+            "nextLine": 997,
+            "columns": 0
+          }
+        }
+      ],
+      "message": "The value is assigned to the \u0027i\u0027 variable but is not used.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    }
+  ]
+}

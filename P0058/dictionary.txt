@@ -1,0 +1,5 @@
+mouse - chuot
+a - b
+c - d
+cat - 1
+snake - ran

@@ -1,0 +1,39 @@
+City A: 27 people, 16 above 18.
+	District A3: 9 people, 0 above 18.
+		Town C1: 3 people, 0 above 18.
+		Town C2: 3 people, 0 above 18.
+		Town C3: 3 people, 0 above 18.
+	District A1: 9 people, 9 above 18.
+		Town A3: 3 people, 3 above 18.
+		Town A1: 3 people, 3 above 18.
+		Town A2: 3 people, 3 above 18.
+	District A2: 9 people, 7 above 18.
+		Town B3: 3 people, 1 above 18.
+		Town B2: 3 people, 3 above 18.
+		Town B1: 3 people, 3 above 18.
+City B: 27 people, 0 above 18.
+	District B3: 9 people, 0 above 18.
+		Town F1: 3 people, 0 above 18.
+		Town F2: 3 people, 0 above 18.
+		Town F3: 3 people, 0 above 18.
+	District B2: 9 people, 0 above 18.
+		Town E1: 3 people, 0 above 18.
+		Town E2: 3 people, 0 above 18.
+		Town E3: 3 people, 0 above 18.
+	District B1: 9 people, 0 above 18.
+		Town D1: 3 people, 0 above 18.
+		Town D2: 3 people, 0 above 18.
+		Town D3: 3 people, 0 above 18.
+City C: 27 people, 0 above 18.
+	District C1: 9 people, 0 above 18.
+		Town G1: 3 people, 0 above 18.
+		Town G2: 3 people, 0 above 18.
+		Town G3: 3 people, 0 above 18.
+	District C2: 9 people, 0 above 18.
+		Town H1: 3 people, 0 above 18.
+		Town H2: 3 people, 0 above 18.
+		Town H3: 3 people, 0 above 18.
+	District C3: 9 people, 0 above 18.
+		Town I1: 3 people, 0 above 18.
+		Town I2: 3 people, 0 above 18.
+		Town I3: 3 people, 0 above 18.

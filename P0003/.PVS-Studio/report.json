@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "warnings": [
+    {
+      "code": "V6109",
+      "cwe": 337,
+      "level": 3,
+      "positions": [
+        {
+          "file": "F:\\Ky 3-Fall23\\LAB211\\P0003\\src\\InsectionSort.java",
+          "line": 53,
+          "endLine": 53,
+          "column": 15,
+          "endColumn": 26,
+          "navigation": {
+            "previousLine": -249847351,
+            "currentLine": 118500049,
+            "nextLine": -866446103,
+            "columns": 0
+          }
+        }
+      ],
+      "message": "Potentially predictable seed is used in pseudo-random number generator.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    }
+  ]
+}
